@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/applause_y.wav-f96cd290ea9c5290c86f833212e5638d.sample"
+
+[deps]
+
+source_file="res://Assets/applause_y.wav"
+dest_files=[ "res://.import/applause_y.wav-f96cd290ea9c5290c86f833212e5638d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
